@@ -1,4 +1,4 @@
-## Hi there, I'm Son Pham!
+## Hello, I am Son Pham, a Git beginner.
 
 <br>
 <br>
