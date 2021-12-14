@@ -4,8 +4,6 @@
 <br>
 <a href="https://www.skycityentertainmentgroup.com/"><p>I am currently working as a Revenue Auditor at Sky City</p></a>
 <br>
-
-<br>
 <br>
 ###📚 Stuff I am learning
 <br>
