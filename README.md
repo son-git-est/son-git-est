@@ -1,5 +1,5 @@
 ## Hello, I am Son Pham, a beginner.
-
+⭐⭐⭐
 <br>
 <br>
 <a href="https://www.skycityentertainmentgroup.com/"><p>I am currently working as a Revenue Auditor at Sky City</p></a>
@@ -7,7 +7,7 @@
 
 <br>
 <br>
-###🔨 Stuff I am learning
+###📚 Stuff I am learning
 <br>
 <br>
 <a href="https://reactjs.org" target="_blank"><img align="left" src="./images/react-original.svg" alt="React" height="48px" /></a>
@@ -29,3 +29,4 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=son-git-est&show_icons=true&theme=tokyonight" />
 <br>
+🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
