@@ -5,7 +5,7 @@
 
 I am currently working as Revenue Auditor at [Sky City](https://www.skycityentertainmentgroup.com/).
 
-###📚 Stuff I am learning
+## 📚 Stuff I am learning
 
 <a href="https://reactjs.org" target="_blank"><img src="./images/react-original.svg" alt="React" height="64px" /></a>
 
@@ -20,7 +20,7 @@ I am currently working as Revenue Auditor at [Sky City](https://www.skycityenter
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./images/css3-original.svg" alt="CSS" height="64px" /></a>
 
 
-###⚡️ Statistics
+## ⚡️ Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=son-git-est&show_icons=true&theme=tokyonight" />
 
