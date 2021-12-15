@@ -7,7 +7,7 @@ I am currently working as Revenue Auditor at [Sky City](https://www.skycityenter
 
 ###📚 Stuff I am learning
 
-<a href="https://reactjs.org" target="_blank"><img src="./images/react-original.svg" alt="React" height="64px" "React"/></a>
+<a href="https://reactjs.org" target="_blank"><img src="./images/react-original.svg" alt="React" height="64px" /></a>
 
 <a href="https://www.java.com/en" target="_blank"><img src="./images/java-original.svg" alt="Java" height="64px" /></a>
 
