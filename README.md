@@ -2,6 +2,9 @@
 ⭐⭐⭐
 <br>
 <br>
+
+I am currently working as Revenue Auditor at [Sky City](https://www.skycityentertainmentgroup.com/).
+
 <a href="https://www.skycityentertainmentgroup.com/"><p>I am currently working as a Revenue Auditor at Sky City</p></a>
 <br>
 <br>
