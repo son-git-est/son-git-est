@@ -1,7 +1,7 @@
 
 # Hello, I am **Son Pham**.
 
-- [x] Beginner ⭐⭐⭐
+- [x] ⭐⭐⭐ Beginner ⭐⭐⭐
 
 
 I am currently working as Revenue Auditor at [Sky City](https://www.skycityentertainmentgroup.com/).
