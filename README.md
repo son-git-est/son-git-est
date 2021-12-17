@@ -1,5 +1,6 @@
 
-# Hello, I am **Son Pham**, a beginner.
+# Hello, I am **Son Pham**.
+# - [x] Beginner
 ⭐⭐⭐
 
 
