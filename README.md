@@ -1,6 +1,8 @@
 
 # Hello, I am **Son Pham**.
-# - [x] Beginner
+- [x] Beginner
+- [ ] Intermidiate
+- [ ] Advanced
 ⭐⭐⭐
 
 
