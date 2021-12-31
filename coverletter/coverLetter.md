@@ -1,4 +1,4 @@
-Dear Sir/Madam,
+**Dear Sir/Madam**,
 
 I am Son Pham, currently working as Revenue Auditor at Skycity.
 Part of the job requires me to work with data. I utilize my knowledge of EXCEL VBA
