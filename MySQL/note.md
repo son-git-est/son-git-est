@@ -10,6 +10,16 @@ structured data
 unstructured data  
 database/database management system  
 sql transaction  
+
+ACID (transactions): 4 properties
+
+|atomic|consistent|isolated|durable|
+|------|----------|--------|-------|
+|any failure will fail the entire course of transactions
+|total does not change after the transaction
+|transactions does not affect each other
+|database remains unchanged after the transaction|
+
 ACID (transaction):  
 - atomic: all or nothing. Any failure will fail the entire transaction
 - consistent: does not change before or after transaction occurs
