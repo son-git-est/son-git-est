@@ -15,10 +15,7 @@ ACID (transactions): 4 properties
 
 |atomic|consistent|isolated|durable|
 |------|----------|--------|-------|
-|any failure will fail the entire course of transactions
-|total does not change after the transaction
-|transactions does not affect each other
-|database remains unchanged after the transaction|
+|any failure will fail the entire course of transactions|total does not change after the transaction|transactions does not affect each other|database remains unchanged after the transaction|
 
 ACID (transaction):  
 - atomic: all or nothing. Any failure will fail the entire transaction
