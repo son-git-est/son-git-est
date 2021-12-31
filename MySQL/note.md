@@ -17,15 +17,15 @@ ACID (transaction):
 - durable: database is not affected if failure occurs
 
 
-explain/desc `table`\G;
-show create table `table`
-combined index/index
-	-> first column counts
-	-> if query requires more than 20% of lines, full scan is faster
-select * from sys.schema_unused_indexes;
-select * from sys.schema_redundant_indexes\G;
-select * from statements_with_full_table_scans\G;
+explain/desc `table`\G;  
+show create table `table`  
+combined index/index  
+- first column counts
+- if query requires more than 20% of lines, full scan is faster
+select * from sys.schema_unused_indexes;  
+select * from sys.schema_redundant_indexes\G;  
+select * from statements_with_full_table_scans\G;  
 partition
-	-> good for table with more than 1M lines
-	-> no more than 50 partitions
+- good for table with more than 1M lines
+- no more than 50 partitions
 	
