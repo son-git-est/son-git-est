@@ -1,20 +1,20 @@
 sql: structured query language  
-index: a faster method to look-up and retrieve data in database
-composite index
-trigger
-partial/transitive dependency
-normalization
-denormalization
-super key: could be single or composite key
-structured data
-unstructured data
-database/database management system
-sql transaction
-ACID (transaction):
-	- atomic: all or nothing. Any failure will fail the entire transaction
-	- consistent: does not change before or after transaction occurs
-	- isolated: does not affect other transactions
-	- durable: database is not affected if failure occurs
+index: a faster method to look-up and retrieve data in database  
+composite index  
+trigger  
+partial/transitive dependency  
+normalization  
+denormalization  
+super key: could be single or composite key  
+structured data  
+unstructured data  
+database/database management system  
+sql transaction  
+ACID (transaction):  
+- atomic: all or nothing. Any failure will fail the entire transaction
+- consistent: does not change before or after transaction occurs
+- isolated: does not affect other transactions
+- durable: database is not affected if failure occurs
 
 
 explain/desc `table`\G;
