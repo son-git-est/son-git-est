@@ -1,4 +1,4 @@
-sql: structured query language
+sql: structured query language  
 index: a faster method to look-up and retrieve data in database
 composite index
 trigger
