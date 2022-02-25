@@ -11,8 +11,22 @@ However, as time goes by, I understand that from deep in my heart, I want more.
 
 🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
 
-Check my repositories for details and source code.
+Stuff I am working on:
+- HTML & CSS
+- Javascript & AJAX & JSON
+- REACT
+- JAVA & FRAMEWORKS
+- MySQL
 
-I aim to become a full stack developer, so Java, JavaScript, HTML, CSS, React are in my learning list.
+Tools I am using:
+- Eclipse
+- Intellij idea
+- VS Code
+- Postman
+- Git
+
+Camera kit that I use:
+- Fujifilm X-T30
+- Fujinon 35mm f/2
 
 🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
